@@ -16,3 +16,7 @@ end
 get '/ola' do
   erb :ola
 end
+
+get '/przemek' do
+  erb :przemek
+end
